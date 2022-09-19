@@ -11,3 +11,7 @@
 
 - [ ] todo list
 - [x] done
+
+```python
+s - "Python syntax Highlighting"
+print(s)
