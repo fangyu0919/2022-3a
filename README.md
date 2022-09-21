@@ -13,16 +13,19 @@
 - [ ] 2nd things
 - [x] done
 
+---
 ```python
 s - "Python syntax Highlighting"
 print(s)
 ```
 
+---
 ```javascript
 var s = "Javascript syntax Highlighting";
 alert(s);
 ```
 
+---
 Emphasis, aka italics, with asterisks or underscores.\
 Strong emphasis, aka bold, with **asterisks** or **underscores**.\
 Combined emphasis with **asterisks and underscores**.\
@@ -42,6 +45,7 @@ Strikethrough uses two tildes. ~~Sefateh-this~~.
 >>>* note 2
 >>>* note 3
 
+---
 Colons can be used to aligan columns.
 | Tables    | Are      | Cool     |
 | :------   | :------: | --------:|
