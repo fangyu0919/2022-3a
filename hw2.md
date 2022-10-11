@@ -10,9 +10,9 @@ gantt
 title A Gantt Diagram
 dateFormat  YYYY-MM-DD
 
-    section Task1
+     section Task1
 研擬計畫           :t1, 2022-10-03, 1d
-section Task2
+     section Task2
 任務分配           :t2, after t1, 4d
      section Task3
 取得硬體           :t3, after t1, 17d
