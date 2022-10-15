@@ -29,8 +29,8 @@ dateFormat  YYYY-MM-DD
      section Task9
 系統測試           :t9, after t6, 25d
      section Task10
-使用者訓練       :t10, after t7, 20d
+使用者訓練         :t10, after t7, 20d
      section Task11
-使用者測試       :t11, after t9, 25d
+使用者測試         :t11, after t9, 25d
     
 ```
