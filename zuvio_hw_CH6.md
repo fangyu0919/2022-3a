@@ -1,4 +1,5 @@
 
+```java
 CShape.java 
 abstract class CShape{
     protected String color;
@@ -8,9 +9,10 @@ abstract class CShape{
  
     public abstract void show();
 }
+```
 
-
-
+---
+```java
 CTriangle.java
 class CTriangle extends CShape{
     double ca, cb, cc;
@@ -27,3 +29,4 @@ class CTriangle extends CShape{
     }
    
 }
+```
